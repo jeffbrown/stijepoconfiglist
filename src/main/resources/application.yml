@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: stijepoconfiglist
+---
+server:
+  settings:
+    - country: "US"
+      host: "us.host"
+    - country: "UK"
+      host: "uk.host"
